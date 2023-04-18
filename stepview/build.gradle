@@ -9,7 +9,7 @@ ext {
 //apply from: "${rootProject.projectDir}/publish-mavencentral.gradle"
 
 android {
-    compileSdkVersion 32
+    compileSdkVersion 30
 
     defaultConfig {
         minSdkVersion 14
