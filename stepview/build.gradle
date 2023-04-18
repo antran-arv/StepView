@@ -6,7 +6,7 @@ ext {
     PUBLISH_ARTIFACT_ID = 'stepview'
 }
 
-apply from: "${rootProject.projectDir}/publish-mavencentral.gradle"
+//apply from: "${rootProject.projectDir}/publish-mavencentral.gradle"
 
 android {
     compileSdkVersion 32
